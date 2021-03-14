@@ -1,0 +1,1 @@
+In this group project we analyse the relentless rise of rental prices in Ireland. 

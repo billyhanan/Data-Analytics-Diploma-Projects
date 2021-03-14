@@ -1,0 +1,99 @@
+"Business Demography by County, Activity, statistical indicator and Year"
+
+" "," "," ","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017"
+"All Counties"
+" ","Business economy excluding activities of holding companies (B to N,-642)"
+" "," ","Active Enterprise (Number)",244195,244428,242692,240880,244394,243571,238249,248843,250033,271166
+" "," ","Persons Engaged (Number)",1511920,1345461,1270475,1259326,1264769,1288017,1334291,1402981,1478236,1555799
+" "," ","Employees (Number)",1353852,1194300,1122594,1113344,1116773,1142552,1191676,1255534,1334297,1401032
+" ","Mining and quarrying (B)"
+" "," ","Active Enterprise (Number)",..,434,408,412,411,421,411,405,413,451
+" "," ","Persons Engaged (Number)",..,6176,4384,4269,4180,4146,4058,4164,4058,4155
+" "," ","Employees (Number)",..,6061,4286,4170,4076,4048,3965,4069,3964,4057
+" ","Manufacturing (C)"
+" "," ","Active Enterprise (Number)",14513,14629,14311,14336,14533,14649,14628,15242,15583,16701
+" "," ","Persons Engaged (Number)",218792,194172,181611,181050,178700,181091,189966,200047,213117,219762
+" "," ","Employees (Number)",211796,187230,175066,174468,171901,174302,183190,192978,206095,212027
+" ","Electricity, gas, steam and air conditioning supply (D)"
+" "," ","Active Enterprise (Number)",..,330,403,423,456,485,483,515,551,637
+" "," ","Persons Engaged (Number)",..,9922,9117,8842,8735,8246,8496,8846,9206,9588
+" "," ","Employees (Number)",..,9886,9067,8802,8693,8203,8456,8807,9164,9541
+" ","Water supply, sewerage, waste management and remediation activities (E)"
+" "," ","Active Enterprise (Number)",844,892,928,961,985,985,975,1014,1008,1028
+" "," ","Persons Engaged (Number)",7785,8009,7189,7534,7578,7508,8025,8740,8971,9461
+" "," ","Employees (Number)",7496,7708,6911,7254,7286,7217,7760,8474,8709,9194
+" ","Construction (F)"
+" "," ","Active Enterprise (Number)",61905,57472,52607,50256,49530,48502,47349,50546,51568,57255
+" "," ","Persons Engaged (Number)",190069,134313,104545,94640,89351,91122,99860,108720,120341,137239
+" "," ","Employees (Number)",145740,96249,69777,61197,55736,58059,67194,73587,84956,97902
+" ","Wholesale and retail trade, repair of motor vehicles and motorcycles (G)"
+" "," ","Active Enterprise (Number)",46234,46494,46820,47030,47554,47061,45618,46626,46595,48598
+" "," ","Persons Engaged (Number)",374598,345721,329380,328147,327687,332768,336866,345911,356057,367405
+" "," ","Employees (Number)",349291,320587,304601,303163,302441,308134,313348,322225,333324,343763
+" ","Transportation and storage (H)"
+" "," ","Active Enterprise (Number)",27743,27271,27196,26370,26284,25734,24595,25066,24614,25736
+" "," ","Persons Engaged (Number)",104730,97341,94358,92582,91852,91644,91985,94622,97662,100629
+" "," ","Employees (Number)",80535,73686,70902,69978,69341,69764,71208,73590,77331,79459
+" ","Accommodation and food service activities (I)"
+" "," ","Active Enterprise (Number)",17466,17467,17552,17693,17892,17913,17790,18336,18377,19205
+" "," ","Persons Engaged (Number)",163673,154069,148189,146374,150735,155105,161097,170222,179827,189186
+" "," ","Employees (Number)",150553,141302,135560,133749,138113,142804,149157,158230,168298,177372
+" ","Information and communication (J)"
+" "," ","Active Enterprise (Number)",10632,11264,11869,12350,13099,13578,13687,14246,14570,15953
+" "," ","Persons Engaged (Number)",73297,66811,67683,69290,72684,77060,82010,87597,95220,102027
+" "," ","Employees (Number)",69507,62864,63626,65164,68280,72670,77616,83106,90980,97322
+" ","Financial and insurance activities excluding activities of holding companies (K-642)"
+" "," ","Active Enterprise (Number)",5836,6699,7041,6986,7310,7502,6593,7009,6557,8121
+" "," ","Persons Engaged (Number)",100487,94273,96503,96545,97673,96371,96460,97836,99502,102725
+" "," ","Employees (Number)",98591,92415,94562,94673,95708,94384,94423,95775,97502,100532
+" ","Real estate activities (L)"
+" "," ","Active Enterprise (Number)",9766,10541,11361,11387,11986,12065,11912,13228,13249,15178
+" "," ","Persons Engaged (Number)",21613,17312,18423,19095,20111,20848,22775,24723,25744,28088
+" "," ","Employees (Number)",16353,12205,12645,13169,13752,14385,15823,17095,18203,19400
+" ","Professional, scientific and technical activities (M)"
+" "," ","Active Enterprise (Number)",34259,36051,37194,37685,38805,38911,38795,40186,40452,43587
+" "," ","Persons Engaged (Number)",125971,113458,108168,108630,110924,115426,120245,127591,135887,145353
+" "," ","Employees (Number)",101801,88886,83140,83583,85514,90436,95514,102409,111653,119700
+" ","Administrative and support service activities (N)"
+" "," ","Active Enterprise (Number)",14399,14883,15001,14990,15548,15764,15412,16423,16495,18716
+" "," ","Persons Engaged (Number)",116536,103884,100925,102328,104559,106682,112448,123962,132644,140181
+" "," ","Employees (Number)",107973,95221,92451,93974,95932,98146,104022,115189,124118,130763
+" ","Education (P)"
+" "," ","Active Enterprise (Number)",10268,10168,11137,11553,12252,12542,12986,13502,13665,14440
+" "," ","Persons Engaged (Number)",145451,121622,145700,147369,147643,149390,151939,153426,158354,163016
+" "," ","Employees (Number)",140240,114235,139679,141050,140742,142282,144428,145495,150456,154425
+" ","Human Health and Social Work Activities (Q)"
+" "," ","Active Enterprise (Number)",..,..,..,..,..,..,..,20255,19808,20989
+" "," ","Persons Engaged (Number)",..,..,..,..,..,..,..,211318,217720,225881
+" "," ","Employees (Number)",..,..,..,..,..,..,..,196173,203105,210372
+" ","Arts, Entertainment and Recreation (R)"
+" "," ","Active Enterprise (Number)",8679,9722,9512,9777,10287,10428,10538,10951,10847,11893
+" "," ","Persons Engaged (Number)",36785,37196,35509,35588,36259,36857,37442,38082,39254,41365
+" "," ","Employees (Number)",30392,29706,28575,28449,28692,29246,29691,29929,31348,32574
+" ","Other Service Activities (S)"
+" "," ","Active Enterprise (Number)",..,..,..,..,..,..,..,18610,18793,20241
+" "," ","Persons Engaged (Number)",..,..,..,..,..,..,..,55446,57209,59782
+" "," ","Employees (Number)",..,..,..,..,..,..,..,39960,41796,43230
+" ","ICT total (261 to 264,268,465,582,61,62,631,951)"
+" "," ","Active Enterprise (Number)",8685,9154,9633,10051,10663,11041,11173,12077,12291,13161
+" "," ","Persons Engaged (Number)",82563,71980,71407,74229,76994,83927,88712,97949,105837,111954
+" "," ","Employees (Number)",79959,69191,68587,71370,73951,80952,85758,94671,102800,108763
+
+"Geographical Breakdown for enterprises is an approximation. The "
+"county breakdown is based on the address at which an enterprise is "
+"registered for Revenue purposes, rather than where the business "
+"actually operates from, because no comprehensive administrative data "
+"source is currently available for business locations. In particular, "
+"where an enterprise has local units in several counties, but one head "
+"office where all employment is registered, all its employees will be "
+"counted against the county where the head office is located. "
+"Enterprises where the county location is categorised as Unknown "
+"generally have Revenue registered addresses outside of the Republic "
+"of Ireland. However, the employees registered with these addresses "
+"are working in the Republic of Ireland.  "
+"NACE Code 64.20 Activities of holding companies is excluded from "
+"Sector K. .. indicates that the data has been suppressed to protect "
+"the confidentiality of individual enterprises. "
+"(http://www.cso.ie/en/methods/multisectoral/businessdemography/)  See "
+"Background Notes  "
+
